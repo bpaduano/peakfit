@@ -1,5 +1,6 @@
 {
   "expo": {
+    "entryPoint": "./App.js",
     "name": "PeakFit",
     "slug": "PeakFit",
     "version": "1.0.0",
